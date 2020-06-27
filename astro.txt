@@ -1,0 +1,29 @@
+Assuming that the diameter of the Earth (12,700 km) is scaled down to 1 cm, the diameter of the sun on this scale is 110.23 cm and the distance of the nearest star on this scale is 3.15 * 10^9 cm.
+
+As given in the question, 12700 Km is equivalent to 1 cm on the given scale.
+So, 1 Km is equivalent to 1/12700 cm. Thus, diameter of the sun (1.4 * 10^6 km) can be calculated as (1.4 * 10^6) / 12700 = 110.23 cm
+Again, 1 Light year = 9.46 * 10 ^ 12 Km. So, on calculation, 4.24 light year is equal to 3.15 * 10^9 cm.
+
+
+
+
+Thus the distance to the moon is 381, 818 Km
+Explanation:
+
+Given data:
+
+Distance of ruler = 60 cm
+Size of moon = 0.55 cm
+Diameter of moon = 3500 Km
+Solution:
+
+Set a proportional relation between diameter of moon, distance of ruler and size of moon.
+
+Distance of moon / Diameter = Distance of ruler / Size of image
+
+Distance of moon / 3500 Km = 60 cm / 0.55 cm
+
+Distance of moon = 381, 818 Km
+
+The accuracy of the experiment results is limited by the precision results.
+
